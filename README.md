@@ -10,3 +10,5 @@ do Caixeiro Viajante (Travelling Salesman Problem - TSP) através do algoritmo d
 Exemplo:
 
 ![caxaro](https://github.com/rodrigoneves927/Caixeiro-Viajante-Programacao-Paralela/assets/105732866/bf530352-eb3a-4407-8076-875f7ed8dd68)
+
+Começando da cidade 1, o caminho que terá menor custo e passará por todas as cidades uma única vez e voltará para a cidade 1 é o caminho: 1 -> 3 -> 2 -> 5 -> 4 -> 1.
