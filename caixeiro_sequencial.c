@@ -87,8 +87,7 @@ void caixeiro(){
 }
 
 int main() {
-    int i, j, proximo_no;
-    int menor, observar, contagem;
+    int i, j;
     int melhor_no_distancia = INT_MAX, melhor_no;
 
     file = fopen("si175.tsp", "r");
