@@ -11,12 +11,11 @@ FILE *file;
 void inserir_valor() {
     int n;
 	for (int i = 0; i < max; i++) {
-        for (int j = 0; j < max; j++) {
-            
+        	for (int j = 0; j < max; j++) {
 			fscanf(file, "%d", &n);
-            cidades[i][j] = n;
-        }
-    }
+            		cidades[i][j] = n;
+        	}
+    	}
 }
 
 void print_matriz() {
@@ -55,12 +54,11 @@ void caixeiro(){
             for (int j = 0; j < max; j++) {
                 
           		if(verificar(j, i)){
-          			
           			if (cidades[observar][j] <= menor && cidades[observar][j] != 0) {
-						menor = cidades[observar][j];
-	            		proximo_no = j;
+					menor = cidades[observar][j];
+	            			proximo_no = j;
           			}
-				}
+			}
 	            
             }
             
@@ -73,7 +71,7 @@ void caixeiro(){
         caminho[i][max] = caminho[i][0];
         distancia[i] += cidades[caminho[i][0]][caminho[i][max-1]];
 		
-		/*
+	/*
         for (int j = 0; j < max+1; j++) {
             printf("%d", caminho[i][j]);
             if (j != max) {
