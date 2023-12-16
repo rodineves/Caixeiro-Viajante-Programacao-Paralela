@@ -90,7 +90,7 @@ int main() {
     int i, j;
     int melhor_no_distancia = INT_MAX, melhor_no;
 
-    file = fopen("si175.tsp", "r");
+    file = fopen("si6.tsp", "r");
     if (file == NULL) {
         fprintf(stderr, "Erro ao abrir o arquivo texto.tsp\n");
         return 1;
