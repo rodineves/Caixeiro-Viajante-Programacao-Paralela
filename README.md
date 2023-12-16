@@ -9,4 +9,4 @@ do Caixeiro Viajante (Travelling Salesman Problem - TSP) através do algoritmo d
 
 Exemplo:
 
-![imagem_2023-12-16_010000601](https://github.com/rodrigoneves927/Caixeiro-Viajante-Programacao-Paralela/assets/105732866/a386d709-937e-4213-904c-76339507e6a0)
+![caxaro](https://github.com/rodrigoneves927/Caixeiro-Viajante-Programacao-Paralela/assets/105732866/bf530352-eb3a-4407-8076-875f7ed8dd68)
