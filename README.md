@@ -15,7 +15,9 @@ Começando da cidade 1, o caminho que terá menor custo e passará por todas as 
 
 ## 🏘️ Algoritmo do Vizinho mais Próximo
 
-Esse foi um dos primeiros algoritmo que visavam determinar uma solução para o caixeiro viajante, e um dos mais simples.
+Esse foi um dos primeiros algoritmo que visavam determinar uma solução para o caixeiro viajante, e um dos mais simples. Ele encontra rapidamente uma solução para o problema, mas geralmente não gera o melhor caminho nem o ideal, pelo motivo de ser um algoritmo guloso (Escolhe o que parece ser o melhor caminho no momento e continua por ele, mesmo no futuro não sendo uma boa escolha).
+
+Ps.: Sim eu escolhi porque é um dos mais fáceis rsrs 😁.
 
 ### 👣 Passos do Algoritmo
 
