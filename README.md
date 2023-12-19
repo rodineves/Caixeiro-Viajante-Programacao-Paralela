@@ -3,6 +3,7 @@
 Códigos que foram feitos durante a disciplina de Programação Paralela do curso de Ciência da Computação, códigos esses que resolvem o problema
 do Caixeiro Viajante (Travelling Salesman Problem - TSP) através do algoritmo do vizinho mais próximo. 
 
+
 ## 📮 Problema do Caixeiro Viajante
 
 É um problema que trata de encontrar qual é a menor rota possível passando por todas as cidades, uma única vez e depois voltar para a cidade onde foi iniciado o percurso.
@@ -20,7 +21,7 @@ Esse foi um dos primeiros algoritmo que visavam determinar uma solução para o 
 Um pré requisito para que esse algoritmo funcione é que o grafo escolhido precisa ser completo, ou seja, todos os vértices possuem ligação com todos os outros vértices, como a imagem anterior na seção do Problema do Caixeiro Viajante.
 
 ![image](https://github.com/rodineves/Caixeiro-Viajante-Programacao-Paralela/assets/105732866/48b5cbe0-daae-4be8-bd04-2298a3afd296)
-Exemplo de matriz de grafo completo utilizada para o problema (6 cidades / nós).
+<i>Exemplo de matriz de grafo completo utilizada para o problema (6 cidades / nós).</i>
 
 Ps.: Sim, eu escolhi esse algoritmo porque é um dos mais fáceis rsrs 😁.
 
